@@ -18,8 +18,8 @@ mkdir_safe ".mjolnir/"
 link_safe .mjolnir/init.lua
 
 mkdir_safe "Library/LaunchAgents/"
-link_safe Library/LaunchAgents/com.cannariato.nick.tmpreaper.plist
-link_safe Library/LaunchAgents/com.cannariato.nick.update.plist
+link_safe Library/LaunchAgents/com.mckenney.adam.tmpreaper.plist
+link_safe Library/LaunchAgents/com.mckenney.adam.update.plist
 
 mkdir_safe "Library/Spelling/"
 link_safe Library/Spelling/LocalDictionary
